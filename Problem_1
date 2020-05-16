@@ -1,0 +1,32 @@
+  The Beginning of Everything
+
+
+Big Bang was the Beginning of the Universe. Adam and Eve are a symbol for Beginning of Life.
+Can you find the beginning of the life of programmer?
+
+Input
+
+First line contains an integer T, the number of test cases. The description of T test cases follow.
+First line of each test case contains a string s.
+
+Output
+For each testcase, output in a single line "Yes" without quotes if the string corresponds to the beginning of programmer, 
+else output "No" in a single line without quotes.
+
+Constraints
+1<=T<=5.105
+1<=|s|<=10, where |s| is length of s and s consists lower case english letters
+
+
+Sample Input
+4
+asdfghjkll
+ldrwolloeh
+qwertyuiop
+axcvbnmzxc
+
+Sample Output
+No
+Yes
+No
+No
